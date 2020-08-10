@@ -6,4 +6,5 @@ script: ./ci.sh
 notifications:
     email:
     #enter your email address below
-        - example@example.com
+        # - example@example.com
+        - barbara.gilson@revature.net
